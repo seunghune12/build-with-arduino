@@ -37,7 +37,9 @@ Arduino Starter Kit를 이용해 Arduino의 기초부터 단계적으로 학습�
 Repository Structure
 
 arduino-starter-kit/
+
 ├── README.md
+
 └── week1 순으로 계속 진행
 
 현재 진행
